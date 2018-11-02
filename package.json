@@ -1,0 +1,24 @@
+{
+  "name": "creative_assignment_4",
+  "version": "1.0.0",
+  "description": "Creative Assingment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leavitdav01/creative_assignment_4.git"
+  },
+  "author": "David Leavitt",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/leavitdav01/creative_assignment_4/issues"
+  },
+  "homepage": "https://github.com/leavitdav01/creative_assignment_4#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.5",
+    "socket.io": "^2.1.1"
+  }
+}

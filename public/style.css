@@ -1,0 +1,56 @@
+body {
+  background-color: #9BE155;
+}
+h1 {
+  font-family: 'Spicy Rice', cursive;
+  font-size: 4em;
+  text-align: center;
+  background-color: #BAF083;
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+form {
+  padding-bottom: 2%;
+  font-family: 'Spicy Rice', cursive;
+  backgroud: #000;
+  background-color: #5E5E5E;
+  padding: 3px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  right: 0;
+}
+
+form input {
+  border: 0;
+  width: 90%;
+  margin-right: .5%;
+  padding: .5em;
+}
+
+#change {
+  width: 7%;
+  background: #00E5E5;
+  border: none;
+}
+  
+#thread {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 3em;
+}
+
+  li {
+    list-style: none;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.9em;
+    padding: 5px 10px;
+  }
+
+  li:nth-child(odd) {
+    background: #eee;
+    font-family: 'Poor Story', cursive;
+    font-size: 2.2em;
+  }
